@@ -1,0 +1,15 @@
+node-modules
+/CMC/bin/Debug/net6.0
+/CMC/obj
+/CMC.Core/bin/Debug/net6.0
+/CMC.Infrastructure/bin/Debug/net6.0
+/CMC.Infrastructure/obj
+/CMC.Tests/bin/Debug/net6.0
+/CMC.Tests/obj
+/CMC.UI/bin/Debug/net6.0
+/CMC.UI/obj
+/CMC.Tests/bin/Release/net6.0
+/CMC.Core/obj/Release/net6.0
+/CMC.UI/cmc-app/node_modules
+/CMC.Core/obj
+CMC.Core/obj/

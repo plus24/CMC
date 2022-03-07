@@ -1,0 +1,14 @@
+.checkout {
+}
+
+.checkOut, .cancel {
+  margin: 10px !important;
+}
+
+.solid{
+  border-top: 3px solid #bbb;
+}
+
+.gap{
+  width: 550px;
+}

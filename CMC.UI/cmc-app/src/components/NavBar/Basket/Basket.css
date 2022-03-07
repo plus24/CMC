@@ -1,0 +1,27 @@
+.basket {
+  display: block;
+  min-width: 50px;
+  min-height: 50px;
+  margin-top: 10px;
+}
+
+.basketItems{
+  display: none;
+  position: absolute;
+  top: 50px;
+  right: 0px;
+  padding: 5px;
+  min-width: 550px;
+  padding: 10px;
+  opacity: 0.9;
+}
+
+.basket:hover .basketItems{
+  display: block;
+}
+
+.removeIcon {
+  float: right;
+  color: red;
+  cursor: pointer;
+}

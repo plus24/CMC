@@ -1,0 +1,163 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test render of currencies component 1`] = `
+<div
+  className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary currencies css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root"
+  onClick={[Function]}
+>
+  <div
+    aria-expanded="false"
+    aria-haspopup="listbox"
+    aria-labelledby="demo-simple-select-label demo-simple-select"
+    className="MuiSelect-select MuiSelect-outlined MuiOutlinedInput-input MuiInputBase-input css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input"
+    id="demo-simple-select"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onMouseDown={[Function]}
+    role="button"
+    tabIndex={0}
+  >
+    AUD
+  </div>
+  <input
+    aria-hidden={true}
+    className="MuiSelect-nativeInput css-yf8vq0-MuiSelect-nativeInput"
+    onAnimationStart={[Function]}
+    onChange={[Function]}
+    tabIndex={-1}
+    value="AUD"
+  />
+  <svg
+    aria-hidden={true}
+    className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconOutlined css-hfutr2-MuiSvgIcon-root-MuiSelect-icon"
+    data-testid="ArrowDropDownIcon"
+    focusable="false"
+    viewBox="0 0 24 24"
+  >
+    <path
+      d="M7 10l5 5 5-5z"
+    />
+  </svg>
+  <fieldset
+    aria-hidden={true}
+    className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+  >
+    <legend
+      className="css-173wfxe"
+    >
+      <span>
+        Currency
+      </span>
+    </legend>
+  </fieldset>
+</div>
+`;
+
+exports[`Test render of product component 1`] = `
+<div
+  className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary currencies css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root"
+  onClick={[Function]}
+>
+  <div
+    aria-expanded="false"
+    aria-haspopup="listbox"
+    aria-labelledby="demo-simple-select-label demo-simple-select"
+    className="MuiSelect-select MuiSelect-outlined MuiOutlinedInput-input MuiInputBase-input css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input"
+    id="demo-simple-select"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onMouseDown={[Function]}
+    role="button"
+    tabIndex={0}
+  >
+    AUD
+  </div>
+  <input
+    aria-hidden={true}
+    className="MuiSelect-nativeInput css-yf8vq0-MuiSelect-nativeInput"
+    onAnimationStart={[Function]}
+    onChange={[Function]}
+    tabIndex={-1}
+    value="AUD"
+  />
+  <svg
+    aria-hidden={true}
+    className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconOutlined css-hfutr2-MuiSvgIcon-root-MuiSelect-icon"
+    data-testid="ArrowDropDownIcon"
+    focusable="false"
+    viewBox="0 0 24 24"
+  >
+    <path
+      d="M7 10l5 5 5-5z"
+    />
+  </svg>
+  <fieldset
+    aria-hidden={true}
+    className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+  >
+    <legend
+      className="css-173wfxe"
+    >
+      <span>
+        Currency
+      </span>
+    </legend>
+  </fieldset>
+</div>
+`;
+
+exports[`renders Currencies without crashing 1`] = `
+<div
+  className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary currencies css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root"
+  onClick={[Function]}
+>
+  <div
+    aria-expanded="false"
+    aria-haspopup="listbox"
+    aria-labelledby="demo-simple-select-label demo-simple-select"
+    className="MuiSelect-select MuiSelect-outlined MuiOutlinedInput-input MuiInputBase-input css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input"
+    id="demo-simple-select"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onMouseDown={[Function]}
+    role="button"
+    tabIndex={0}
+  >
+    AUD
+  </div>
+  <input
+    aria-hidden={true}
+    className="MuiSelect-nativeInput css-yf8vq0-MuiSelect-nativeInput"
+    onAnimationStart={[Function]}
+    onChange={[Function]}
+    tabIndex={-1}
+    value="AUD"
+  />
+  <svg
+    aria-hidden={true}
+    className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconOutlined css-hfutr2-MuiSvgIcon-root-MuiSelect-icon"
+    data-testid="ArrowDropDownIcon"
+    focusable="false"
+    viewBox="0 0 24 24"
+  >
+    <path
+      d="M7 10l5 5 5-5z"
+    />
+  </svg>
+  <fieldset
+    aria-hidden={true}
+    className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+  >
+    <legend
+      className="css-173wfxe"
+    >
+      <span>
+        Currency
+      </span>
+    </legend>
+  </fieldset>
+</div>
+`;

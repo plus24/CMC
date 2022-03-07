@@ -1,0 +1,15 @@
+.rightNav {
+
+}
+.currencies {
+  position: relative;
+  display: inline-block;
+}
+
+.basket {
+  position: relative;
+  display: inline-block;
+  min-height: 55px;
+  min-width: 50px;
+  margin: 10px 0px 0px 0px;
+}
